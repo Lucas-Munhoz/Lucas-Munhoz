@@ -1,6 +1,6 @@
 ### <H1>Lucas Munhoz</H1>
 
- - 👨‍🎓 Attending Software Engineer / UTFPR - Universidade Federal Tecnológica do Paraná
+ - 👨‍🎓 Attending Software Engineering / UTFPR - Universidade Federal Tecnológica do Paraná
  - 🌎 Paraná/Brazil
  - 🎮 Gamer
  
