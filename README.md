@@ -2,7 +2,7 @@
 
  - 👨‍🎓 Attending Software Engineering / UTFPR - Universidade Federal Tecnológica do Paraná
  - 🌎 Paraná/Brazil
- - 💻 Back-End
+ - 💻 Back-End - Java
  - 🎮 Game Development <3
  
  <div align="center">
