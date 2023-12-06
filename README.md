@@ -2,8 +2,8 @@
 
  - 👨‍🎓 Attending Software Engineering / UTFPR - Universidade Federal Tecnológica do Paraná
  - 🌎 Paraná/Brazil
- - 🎮 Game Development <3
  - 💻 Back-End
+ - 🎮 Game Development <3
  
  <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucas-Munhoz&show_icons=true&count_private=true&hide_border=true&title_color=00b040&icon_color=00b040&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Munhoz GitHub Stats"/>
