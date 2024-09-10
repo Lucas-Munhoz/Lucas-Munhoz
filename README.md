@@ -1,7 +1,7 @@
 ### <H1>Hello! I'm Lucas Munhoz</H1>
 
  - 👨‍🎓 Attending Software Engineering / UTFPR - Universidade Federal Tecnológica do Paraná
- - 🧭 QA and Tester | AWS | AI for Software Quality | Trainee at Compass UOL
+ - 🧭 QA and Tester | AWS | AI for Software Quality | Intern at Compass UOL
  - 🌎 Paraná/Brazil
  - 🎈 RD
  
